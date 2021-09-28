@@ -4,7 +4,7 @@ echo "Ausgabe der Grossen Verzeichnissen"
 
 if [ -z $1 ]
 then
-	i=i + 1
+	i= i + 1
 	echo "Bitte parameter uebergeben!" $i
 	#exit
 
