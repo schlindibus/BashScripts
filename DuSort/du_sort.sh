@@ -1,4 +1,15 @@
-#!/bin/bash 
+#!/bin/bash
+#
+# Sortieren
+# ---------------------------------------------------------------------------------
+# SYNOPSIS: du_sort.sh                                                             |
+# Ausführung: In Konsole von Git Bash (Ubuntu)                                     |
+#                                                                                  |
+# Description: Dieses Script Sortiert die grössten Files in einem Verzeichniss     |
+#                                                                                  |
+# Autoren: Linden Koppejan                                                         |
+# Datum: 28.09.2021                                                                |
+# ----------------------------------------------------------------------------------
 i=0
 echo "Ausgabe der Grossen Verzeichnissen"
 
